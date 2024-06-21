@@ -20,12 +20,6 @@ This project is a fully functional stopwatch web application developed during my
 - **CSS:** Styling to enhance user interface and experience.
 - **JavaScript:** Implements core functionalities of the stopwatch.
 
-## Demo
-
-![Stopwatch Demo](demo.gif)
-
-Watch the [demo video](demo.mp4) to see the stopwatch in action!
-
 ## How to Use
 
 1. Clone the repository:
